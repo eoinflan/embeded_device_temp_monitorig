@@ -1,0 +1,1 @@
+# embeded_device_temp_monitorig
